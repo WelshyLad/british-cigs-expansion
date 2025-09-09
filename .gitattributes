@@ -1,2 +1,15 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Text files: keep LF in repo
+*.{cpp,hpp,c,h,hh,hxx,inc,ext,xml,txt,md,sqf,hpp} text eol=lf
+
+# Windows scripts keep CRLF
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+# Binary files (no line ending conversion)
+*.paa binary
+*.p3d binary
+*.rtm binary
+*.png binary
+*.jpg binary
+*.psd binary
+*.zip binary

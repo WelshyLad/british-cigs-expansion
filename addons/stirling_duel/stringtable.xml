@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="cigs_stirling_duel">
+    <Package name="Author">
+        <Key ID="STR_cigs_stirling_duel_author">
+            <English>Welshy</English>
+        </Key>
+        <Key ID="STR_cigs_stirling_duel_url">
+            <English>~https://github.com/WelshyLad/british-cigs-expansion~</English>
+        </Key>
+    </Package>
+    <Package name="Items">
+        <Key ID="STR_cigs_stirling_duel_cigarette">
+            <English>Stirling Duel Menthol Cigarette</English>
+            <French>Stirling Duel Menthol Cigarette</French>
+            <German>Stirling Duel Menthol Zigarette</German>
+            <Japanese>Stirling Duel Menthol メンソール葉巻</Japanese>
+            <Chinese>Stirling Duel Menthol 薄荷香烟</Chinese>
+        </Key>
+        <Key ID="STR_cigs_stirling_duel_cigpack">
+            <English>Stirling Duel Menthol Cigarette Pack</English>
+            <French>Stirling Duel Menthol Paquet de cigarettes mentholées</French>
+            <German>Stirling Duel Menthol Zigarettenschachtel</German>
+            <Japanese>Stirling Duel Menthol タバコ</Japanese>
+            <Chinese>Stirling Duel Menthol 一包菸</Chinese>
+        </Key>
+        <Key ID="STR_cigs_stirling_duel_cigpack_desc">
+            <English>Stirling Duel Menthol - Contains 20 cigarettes.&lt;br/&gt;Warning: Smoking is hazardous to your health.</English>
+            <French>Stirling Duel Menthol - Contient 20 cigarettes.&lt;br/&gt;Attention: Fumer est dangereux pour votre santé.</French>
+            <German>Stirling Duel Menthol - Enthält 20 Zigaretten.&lt;br/&gt;Achtung: Rauchen ist ungesund.</German>
+            <Japanese>Stirling Duel Menthol - 20 本の葉巻がある。&lt;br/&gt;警告:喫煙はあなたの健康を害します。</Japanese>
+            <Chinese>Stirling Duel Menthol - 內含二十根菸。警告：&lt;br/&gt;吸菸會導致性功能障礙。</Chinese>
+        </Key>
+    </Package>
+</Project>

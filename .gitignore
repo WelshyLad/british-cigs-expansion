@@ -1,7 +1,34 @@
+# 1) Make sure patterns use forward slashes and are in the ROOT .gitignore
+#    (edit .gitignore and add what you need, e.g.)
+Add-Content .gitignore @"
+# --- Build artefacts (HEMTT/Arma) ---
+.hemttout/
+releases/
 *.pbo
-/.hemttout/*
-hemtt
-hemtt.exe
-*.biprivatekey
-.vscode
-/releases
+*.bisign
+*.bikey
+*.rpt
+*.mdmp
+*.bidmp
+*.zip
+
+# --- Logs/temp ---
+*.log
+*.tmp
+photoshop-files/texture/*.log
+
+# --- IDE/OS noise ---
+.vscode/
+*.code-workspace
+Thumbs.db
+"@
+
+# 2) Untrack anything that’s already in Git but should be ignored now
+git rm -r --cached .hemttout releases
+git rm -r --cached -- '*.log' '*.tmp' '*.rpt' '*.mdmp' '*.bidmp' '*.zip' 'Thumbs.db' 'photoshop-files/texture/*.log'
+
+# 3) Stage the rest normally
+git add -A
+
+# 4) Commit
+git commit -m "fix: update .gitignore and untrack ignored files"
