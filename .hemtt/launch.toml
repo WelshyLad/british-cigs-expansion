@@ -1,0 +1,44 @@
+[default]
+mission = "test.VR"
+workshop = [
+    "450814997",  # CBA_A3's Workshop ID
+    "463939057",  # ACE3
+    "3499977893", # Advanced Developer Tools
+    "1779063631", # ZEN
+    # "3375788189", # Immersion Cigs - Rewrite
+    "3518473416", # Immersion Cigs - Rewrite DEV Version
+]
+
+dlc = [
+]
+
+optionals = [
+]
+
+parameters = [
+    "-window",
+    "-noPause",
+    "-noPauseAudio",
+]
+
+# executable = "arma3_x64"        # Default: "arma3_x64"
+# file_patching = true # Default: true
+# binarize = false # Default: false
+# rapify = true # Default: true
+
+
+[vn]
+extends = "default"
+dlc = ["vn"]
+
+[spe]
+extends = "default"
+dlc = ["vn", "spe"]
+
+[asp]
+extends = "default"
+workshop = [
+    "1645973522", # Intercept Minimal Dev
+    "1652506957", # Arma Script Profiler
+]
+
