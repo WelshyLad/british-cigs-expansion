@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="cigs_morley_gold">
+    <Package name="Author">
+        <Key ID="STR_cigs_morley_gold_author">
+            <English>Welshy</English>
+        </Key>
+        <Key ID="STR_cigs_morley_gold_url">
+            <English>https://github.com/WelshyLad/british-cigs-expansion</English>
+        </Key>
+    </Package>
+    <Package name="Items">
+        <Key ID="STR_cigs_morley_gold_cigarette">
+            <English>Morley Gold Cigarette</English>
+            <French>Morley Gold Cigarette</French>
+            <German>Morley Gold Zigarette</German>
+            <Japanese>Morley Gold 葉巻</Japanese>
+            <Chinese>Morley Gold 香菸</Chinese>
+        </Key>
+        <Key ID="STR_cigs_morley_gold_cigpack">
+            <English>Morley Gold Cigarette Pack</English>
+            <French>Morley Gold Paquet de cigarettes</French>
+            <German>Morley Gold Zigarettenschachtel</German>
+            <Japanese>Morley Gold タバコ</Japanese>
+            <Chinese>Morley Gold 一包菸</Chinese>
+        </Key>
+        <Key ID="STR_cigs_morley_gold_cigpack_desc">
+            <English>Pack of Morley Gold - Contains 20 cigarettes.&lt;br/&gt;Warning: Smoking is hazardous to your health.</English>
+            <French>Pack of Morley Gold - Contient 20 cigarettes.&lt;br/&gt;Attention: Fumer est dangereux pour votre santé.</French>
+            <German>Pack of Morley Gold - Enthält 20 Zigaretten.&lt;br/&gt;Achtung: Rauchen ist ungesund.</German>
+            <Japanese>Pack of Morley Gold - 20 本の葉巻がある。&lt;br/&gt;警告:喫煙はあなたの健康を害します。</Japanese>
+            <Chinese>Pack of Morley Gold - 內含二十根菸。警告：&lt;br/&gt;吸菸會導致性功能障礙。</Chinese>
+        </Key>
+    </Package>
+</Project>

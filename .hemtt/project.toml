@@ -1,13 +1,10 @@
-name = "Immersion Cigs - Rewrite - lb_org"
+name = "Immersion Cigs - Rewrite - British Cigs"
 prefix = "cigs"
 mainprefix = "z"
 
 [properties]
 author = "Welshy"
 url = "https://github.com/WelshyLad/british-cigs-expansion"
-
-[binarize]
-enabled = true # Default: true
 
 [files]
 include = [
