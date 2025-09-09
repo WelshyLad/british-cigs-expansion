@@ -41,16 +41,16 @@ Create a Repository based on the Template Repository
 - Replace the following `~placeholders~` across the whole mod directory!
 - make sure to remove the `~`. These merely indicate the placeholders.
 
-1. `~updateBrandName~` -> `sucky_strike`.
+1. `lb_org` -> `sucky_strike`.
    - needs to be exact as the addon folder name
    - no whitespaces
-2. `~updateBrandNameBeautified~` -> `Sucky Strike`.
+2. `Lambet & Butler Original` -> `Sucky Strike`.
    - Should be Capitalized
    - Can have Whitespaces
-3. `~updateAuthor~` -> `LeetHaxor [1337]`
+3. `Welshy` -> `LeetHaxor [1337]`
    - Put your Username or whatever you want to be credited with
    - Can have Whitespaces
-4. `~updateURL~` -> `https://github.com/LeetHaxor/immersion-cigs-extension-sucky_strike`
+4. `https://github.com/WelshyLad/british-cigs-expansion` -> `https://github.com/LeetHaxor/immersion-cigs-extension-sucky_strike`
    - Can be any link, commonly used to direct to YOUR mods github repo
 </details>
 
