@@ -1,17 +1,17 @@
-name = "Immersion Cigs - Rewrite - ~updateBrandName~";
+name = "Immersion Cigs - Rewrite - lb_org";
 
-author = "~updateAuthor~";
+author = "Welshy";
 
 hideName        = "false";                                               // Hide the extension name
 hidePicture     = "false";                                               // Hide the extension menu
 
-tooltip         = "Immersion Cigs - Rewrite - ~updateBrandName~";
-tooltipOwned    = "Immersion Cigs - Rewrite - ~updateBrandName~";        // Tool tip displayed when the mouse is left over, in the main menu
-overview        = "Immersion Cigs - Rewrite - ~updateBrandName~";        // Overview text, displayed from the extension menu
-description     = "Immersion Cigs - Rewrite - ~updateBrandName~";        // Probably in context with action
+tooltip         = "Immersion Cigs - Rewrite - lb_org";
+tooltipOwned    = "Immersion Cigs - Rewrite - lb_org";        // Tool tip displayed when the mouse is left over, in the main menu
+overview        = "Immersion Cigs - Rewrite - lb_org";        // Overview text, displayed from the extension menu
+description     = "Immersion Cigs - Rewrite - lb_org";        // Probably in context with action
 
 actionName      = "Website";
-action          = "~updateURL~";
+action          = "https://github.com/WelshyLad/british-cigs-expansion";
 
 
 picture         = "img\mod-rw-trans.paa";
@@ -20,9 +20,9 @@ logo            = "img\mod-rw-trans.paa";
 logoOver        = "img\mod-rw-trans.paa";
 
 overviewPicture = "img\mod-rw-trans.paa";
-overviewText    = "Immersion Cigs - Rewrite - ~updateBrandName~";
+overviewText    = "Immersion Cigs - Rewrite - lb_org";
 
-overviewFootnote = "Immersion Cigs - Rewrite - ~updateBrandName~";
+overviewFootnote = "Immersion Cigs - Rewrite - lb_org";
 
 
 // Color used for DLC stripes and backgrounds (RGBA)

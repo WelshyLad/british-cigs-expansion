@@ -1,10 +1,10 @@
-name = "Immersion Cigs - Rewrite - ~updateBrandName~"
+name = "Immersion Cigs - Rewrite - lb_org"
 prefix = "cigs"
 mainprefix = "z"
 
 [properties]
-author = "~updateAuthor~"
-url = "~updateURL~"
+author = "Welshy"
+url = "https://github.com/WelshyLad/british-cigs-expansion"
 
 [binarize]
 enabled = true # Default: true
